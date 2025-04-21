@@ -26,7 +26,7 @@ Rated 3.8/5 Stars in the 2021 GMTK Game Jam
 
 Made for the theme "Joined Together" and features 8 levels of good level design
 
-![Banner](https://img.itch.zone/aW1nLzYyNzE1NTQucG5n/original/kTaALA.png)
+![Banner](https://github.com/pvs333/site/blob/main/img1.png?raw=true)
 
 ![Game](https://img.itch.zone/aW1nLzYyMTQxNjMuZ2lm/original/3pWPgK.gif)
 
