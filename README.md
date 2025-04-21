@@ -1,5 +1,5 @@
 # Game Developement Projects
-**Minesweeper Unlimited**
+# **Minesweeper Unlimited**
 
 First Full Release Free To Play Game
 
