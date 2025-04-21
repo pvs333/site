@@ -1,4 +1,3 @@
-# Game Developement Projects
 # **Minesweeper Unlimited**
 
 First Full Release Free To Play Game
@@ -11,7 +10,7 @@ Over 300 downloads, 100 active players
 
 ![MinesweeperBanner]()
 
-**AQUABUILD**
+# **AQUABUILD**
 
 5th Place Prize Winner in BIS Awareathon Game Developement Hackathon
 
@@ -21,7 +20,7 @@ A Water Plant Simulation Game inspired from Mini Motorways, Clash of Clans
 
 ![MinesweeperBanner](https://img.itch.zone/aW1nLzIwMjUyODAxLmpwZw==/original/tcWjqp.jpg)
 
-**MAGNET MURDERER**
+# **MAGNET MURDERER**
 
 Rated 3.8/5 Stars in the 2021 GMTK Game Jam
 
@@ -31,6 +30,6 @@ Made for the theme "Joined Together" and features 8 levels of good level design
 
 ![Game](https://img.itch.zone/aW1nLzYyMTQxNjMuZ2lm/original/3pWPgK.gif)
 
-**Find My Other Games**
+# **Find My Other Games**
 
-[Click Here](pvs333.itch.io) 
+[**Click Here**](pvs333.itch.io) 
